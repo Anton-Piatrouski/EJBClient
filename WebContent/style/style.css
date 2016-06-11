@@ -1,0 +1,30 @@
+.input-alert-group .alert {
+	margin-bottom: 0;
+}
+.input-alert-group {
+	display: table;
+	margin-bottom: 20px;
+}
+.alert {
+	display: table;
+	padding: 5px;
+}
+.alert:empty {
+	display: none;
+}
+.content {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.table {
+	width: 50%;
+}
+h1 {
+	font-size: 26px;
+}
+.label {
+	font-size: 100%;
+}
+.navbar .navbar-nav>li>a:hover {
+	background-color: #f9f9f9;
+}

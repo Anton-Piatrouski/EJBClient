@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN"
+       "http://struts.apache.org/dtds/tiles-config_1_3.dtd">
+
+<tiles-definitions>
+  <definition name="company-template" path="/pages/layouts/common-layout.jsp">
+    <put name="header" value="/pages/header.jsp"/>
+  </definition>
+</tiles-definitions>
